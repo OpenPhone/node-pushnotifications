@@ -54,7 +54,7 @@
   "dependencies": {
     "@parse/node-apn": "5.1.3",
     "node-adm": "0.9.1",
-    "node-gcm": "github:openphone/node-gcm-axios#master",
+    "node-gcm": "github:openphone/node-gcm-axios#722c343",
     "ramda": "0.28.0",
     "web-push": "3.4.5",
     "wns": "0.5.4"
