@@ -16,8 +16,7 @@
     "ci": "npm run build && npm run test-cover && npm run lint",
     "prepublishOnly": "npm run lint && npm test && npm run build",
     "release": "release-it",
-    "prepare": "husky install",
-    "deps:update": "npx npm-check-updates --deep -i -t minor -x '/@openphone/' && npx npm-check-updates --deep -i -f '/@openphone/'"
+    "prepare": "husky install"
   },
   "keywords": [
     "notifications",
